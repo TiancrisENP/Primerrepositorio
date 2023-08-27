@@ -35,6 +35,7 @@ section img{
 section img:hover{
   cursor: crosshair;
   width: 650px;
+  height: 105%;
   opacity: 1;
   filter: contrast(120%);
 }
